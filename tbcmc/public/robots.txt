@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://tbc-mc.lovable.app/sitemap.xml
+
+# SEO optimized robots.txt for TBC.MC
+# Spécialiste en mini-pelles, BRH, godets et machines BTP en France
+# Contact: Laurent Tubocom - +33 6 20 35 13 37
+# Laurent.tubocom@gmail.com
+
+# Disallow admin pages
+Disallow: /admin
+Disallow: /auth
+
+# Allow all important pages for SEO
+Allow: /machines
+Allow: /services  
+Allow: /accessories
+Allow: /about
+Allow: /contact
